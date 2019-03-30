@@ -6,7 +6,7 @@
 <img src="images/buisness-card.gif" width=650px>
 <br><br><br>
 
-## Travel Website (Landing Page)
+## [Travel Website](Website-Designs/Travel-Website1/index.html) (Landing Page)
 <ul>
 <li> Basic Homepage Design of a travel website.
 <li> Used TweenMax for animations and delay(easeInout).
