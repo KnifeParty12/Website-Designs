@@ -24,4 +24,4 @@
 <li>Then after, I rendered clouds and text layers to make it look more realistic and for better user experience.  
 </ul>
 <br>
-<img src="images/travel-website.gif" width=650px>
+<img src="images/multiparallax.gif" width=650px>
