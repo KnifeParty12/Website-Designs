@@ -1,0 +1,23 @@
+{
+  "name": "Website-Design",
+  "version": "1.0.0",
+  "description": "> Repo contains basic website designs(No Backend) ,that I developed while learning Bootstrap,Material CSS,Random Messing around :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnifeParty12/Website-Designs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnifeParty12/Website-Designs/issues"
+  },
+  "homepage": "https://github.com/KnifeParty12/Website-Designs#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
