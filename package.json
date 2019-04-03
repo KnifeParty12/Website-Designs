@@ -4,7 +4,7 @@
   "description": "> Repo contains basic website designs(No Backend) ,that I developed while learning Bootstrap,Material CSS,Random Messing around :)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/KnifeParty12/Website-Designs/issues"
   },
-  "homepage": "https://KnifeParty12.github.io/Website-Designs#readme",
+  "homepage": "https://KnifeParty12.github.io/Website-Designs",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
