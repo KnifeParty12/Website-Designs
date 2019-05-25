@@ -25,3 +25,10 @@
 </ul>
 <br>
 <img src="images/multiparallax.gif" width=650px>
+
+
+## Deployment
+
+### [Travel Website](https://infallible-lewin-d7ae06.netlify.com/)
+
+### [Multilayer-Parallax](https://stoic-hermann-b8e898.netlify.com)
